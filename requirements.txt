@@ -1,0 +1,7 @@
+# Core dependencies
+transformers>=4.36
+torch>=2.0
+
+# Jupyter (for running the notebook)
+jupyterlab>=4.0
+ipykernel>=6.0 
