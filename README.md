@@ -6,10 +6,6 @@ This repository provides a lightweight benchmark and utilities for comparing the
 * **`maths.json`** – a curated set of short-answer math problems used for evaluation.
 * **`model_output/`** – text files containing the generated answers from each model that has been evaluated so far.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/llm_comparison/main/.github/assets/llm_comparison_banner.png" alt="LLM Comparison banner"/>
-</p>
-
 ## Table of Contents
 
 1. [Quick Start](#quick-start)
