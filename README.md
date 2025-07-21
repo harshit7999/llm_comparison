@@ -1,4 +1,4 @@
-# LLM Comparison
+# SLM Comparison
 
 This repository provides a lightweight benchmark and utilities for comparing the math-reasoning performance of several small language models (1 – 3 B parameters).  It contains:
 
@@ -20,8 +20,8 @@ This repository provides a lightweight benchmark and utilities for comparing the
 1. Clone the repository and install the dependencies
 
    ```bash
-   git clone https://github.com/your-username/llm_comparison.git
-   cd llm_comparison
+   git clone https://github.com/your-username/slm_comparison.git
+   cd slm_comparison
    python -m venv .venv
    source .venv/bin/activate  # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
@@ -42,7 +42,7 @@ This repository provides a lightweight benchmark and utilities for comparing the
 ## Project Structure
 
 ```text
-llm_comparison/
+slm_comparison/
 ├── main.ipynb         # Notebook orchestrating the evaluation
 ├── maths.json         # Evaluation dataset
 ├── model_output/      # Generated answers for each model
